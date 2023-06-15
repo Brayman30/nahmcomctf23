@@ -1,3 +1,4 @@
+# Rules Flag
 ## Instructions
 
 It can be found as an HTML comment in the source code of the rules page 
